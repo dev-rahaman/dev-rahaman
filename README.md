@@ -6,19 +6,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-rahaman" alt="dev-rahaman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devrsrahaman" target="blank"><img src="https://img.shields.io/twitter/follow/devrsrahaman?logo=twitter&style=for-the-badge" alt="devrsrahaman" /></a> </p>
+<!-- Left Section -->
+📌 **Social Media Links**
 
-- 🌱 I’m currently learning **Next.js**
+🐦 Twitter: [https://twitter.com/devrsrahaman](https://twitter.com/devrsrahaman)
 
-- 👨‍💻 All of my projects are available at [https://rs-rahaman.web.app](https://rs-rahaman.web.app/projects)
+🌐 Website: [https://rs-rahaman.web.app](https://rs-rahaman.web.app)
 
-- 💬 Ask me about **MERN Stack Development**
+💬 **Ask me about MERN Stack Development**
 
-- 📫 How to reach me **https://rs-rahaman.web.app**
+📫 **How to reach me**: [https://rs-rahaman.web.app](https://rs-rahaman.web.app)
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1gpqKff6uwNyW-d44wLpTfovs5Oa0I8lX/view?usp=drive_link)
+📄 **Know about my experiences**: [RESUME](https://drive.google.com/file/d/1gpqKff6uwNyW-d44wLpTfovs5Oa0I8lX/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm funny**
+⚡ **Fun fact**: I'm funny
+
+<!-- Right Section -->
+🖼️ **Currently learning Next.js**
+
+ 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
