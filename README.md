@@ -17,7 +17,7 @@
 
 📫 **How to reach me**: [https://dev-rahaman.web.app](https://dev-rahaman.web.app)
 
-📄 **Know about my experiences**: [RESUME](https://drive.google.com/file/d/1gpqKff6uwNyW-d44wLpTfovs5Oa0I8lX/view?usp=drive_link)
+📄 **Know about my experiences**: [RESUME](https://drive.google.com/file/d/1H747YAInOVKsmsx1tbhdqNffyq3aLHPV/view?usp=drive_link)
 
 ⚡ **Fun fact**: I'm funny
 
