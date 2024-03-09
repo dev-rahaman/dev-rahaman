@@ -11,11 +11,11 @@
 
 🐦 Twitter: [https://twitter.com/devrsrahaman](https://twitter.com/devrsrahaman)
 
-🌐 Website: [https://rs-rahaman.web.app](https://dev-rahaman.web.app)
+🌐 Website: [https://dev-rahaman.web.app](https://dev-rahaman.web.app)
 
 💬 **Ask me about MERN Stack Development**
 
-📫 **How to reach me**: [https://rs-rahaman.web.app](https://rs-rahaman.web.app)
+📫 **How to reach me**: [https://dev-rahaman.web.app](https://dev-rahaman.web.app)
 
 📄 **Know about my experiences**: [RESUME](https://drive.google.com/file/d/1gpqKff6uwNyW-d44wLpTfovs5Oa0I8lX/view?usp=drive_link)
 
